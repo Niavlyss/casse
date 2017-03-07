@@ -1,5 +1,4 @@
-// changeCasse.cpp
-// g++ -std=c++11 -Wall -Wextra -o changeCasse.out changeCasse.cpp
+
 #include <cctype>
 #include <iostream>
 int main()
